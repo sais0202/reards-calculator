@@ -1,5 +1,5 @@
-# Rewards Calculator
+# Customer Rewards-calculator
 
-## Overview
-
-Rewards Calculator is an API which provides the functionality to calculate customer's reward points.
+Customer Rewards Calculator is an application developed for implementing the functionality of customer rewards points.
+We have used Spring JPA for the implementation.
+And My SQL as our database.
