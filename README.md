@@ -4,4 +4,4 @@ Customer Rewards Calculator is an application developed for implementing the fun
 
 We have used Spring JPA for the implementation.
 
-And My SQL as our database.
+And we have used My SQL as our database.
